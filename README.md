@@ -18,9 +18,9 @@
  ・CSV操作
  
 # 技術
- ・Ruby 2.6.6
- ・Selenium
- ・ChromeDriver
+ ・Ruby 2.6.6  
+ ・Selenium  
+ ・ChromeDriver  
 
 # 今後の改善点
  処理が重たくデータを取得に時間がかかるためSeleniumをnokogiriに変更
